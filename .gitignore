@@ -2,6 +2,15 @@
 node_modules
 /dist
 
+/app-1
+/app-2
+/app-3
+/app-4
+/app-5
+/app-6
+/app-7
+/app
+s
 # local env files
 .env.local
 .env.*.local
