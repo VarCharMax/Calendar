@@ -2,14 +2,14 @@
 node_modules
 /dist
 
-/app-1
-/app-2
-/app-3
-/app-4
-/app-5
-/app-6
-/app-7
-/app
+app-1
+app-2
+app-3s
+app-4
+app-5
+app-6
+app-7
+sapp
 s
 # local env files
 .env.local
